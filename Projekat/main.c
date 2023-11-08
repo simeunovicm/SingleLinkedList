@@ -33,7 +33,7 @@ int main(void)
     struct node* evenList;
     static int_least32_t n;
     static int_least32_t cnt;
-	static int_least32_t i;
+    static int_least32_t i;
 
     printf("Enter number of elements:\n ");
     scanf("%d", &cnt);
